@@ -1,1 +1,2 @@
 # PhotoFaceFilter
+这玩意用来筛选出pyq图片缓存中带有人脸的照片
